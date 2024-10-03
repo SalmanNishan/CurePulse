@@ -1,0 +1,493 @@
+{
+    "liam.walker": [
+        "frank.alven",
+        "fred.allen",
+        "gary.gatland",
+        "dave.arnold",
+        "imran.hussain"
+    ],
+    "wayne.reid": [
+        "frank.alven",
+        "gary.gatland",
+        "emmet.zachary",
+        "imran.hussain"
+    ],
+    "leo.hudson": [
+        "frank.alven",
+        "gary.gatland",
+        "emmet.zachary",
+        "imran.hussain"
+    ],
+    "damien.sanders": [
+        "frank.alven",
+        "gary.gatland",
+        "emmet.zachary",
+        "imran.hussain"
+    ],
+    "david.webb": [
+        "frank.alven",
+        "gary.gatland",
+        "emmet.zachary",
+        "imran.hussain"
+    ],
+    "drew.morris": [
+        "frank.alven",
+        "gary.gatland",
+        "emmet.zachary",
+        "imran.hussain"
+    ],
+    "daniel.watson": [
+        "frank.alven",
+        "gary.gatland",
+        "emmet.zachary",
+        "imran.hussain"
+    ],
+    "paul.baker": [
+        "frank.alven",
+        "gary.gatland",
+        "emmet.zachary",
+        "imran.hussain"
+    ],
+    "ted.mills": [
+        "frank.alven",
+        "gary.gatland",
+        "emmet.zachary",
+        "imran.hussain"
+    ],
+    "kyle.bates": [
+        "frank.alven",
+        "gary.gatland",
+        "emmet.zachary",
+        "imran.hussain"
+    ],
+    "gary.gatland": [
+        "frank.alven",
+        "gary.gatland",
+        "imran.hussain"
+    ],
+    "bill.vance": [
+        "frank.alven",
+        "imran.hussain"
+    ],
+    "alex.walker": [
+        "frank.alven",
+        "gary.gatland",
+        "imran.hussain"
+    ],
+    "henry.adams": [
+        "frank.alven",
+        "gary.gatland",
+        "henry.adams",
+        "imran.hussain"
+    ],
+    "fred.allen": [
+        "frank.alven",
+        "fred.allen",
+        "gary.gatland",
+        "imran.hussain"
+    ],
+    "max.gayle": [
+        "frank.alven",
+        "gary.gatland",
+        "max.gayle",
+        "imran.hussain"
+    ],
+    "gavin.jones": [
+        "frank.alven",
+        "fred.allen",
+        "gary.gatland",
+        "imran.hussain"
+    ],
+    "dave.arnold": [
+        "frank.alven",
+        "fred.allen",
+        "gary.gatland",
+        "dave.arnold",
+        "imran.hussain"
+    ],
+    "jerry.green": [
+        "frank.alven",
+        "fred.allen",
+        "gary.gatland",
+        "imran.hussain"
+    ],
+    "dennis.wood": [
+        "frank.alven",
+        "fred.allen",
+        "gary.gatland",
+        "imran.hussain"
+    ],
+    "emmet.zachary": [
+        "frank.alven",
+        "gary.gatland",
+        "emmet.zachary",
+        "imran.hussain"
+    ],
+    "mark.davis": [
+        "frank.alven",
+        "gary.gatland",
+        "henry.adams",
+        "imran.hussain"
+    ],
+    "arthur.cook": [
+        "frank.alven",
+        "gary.gatland",
+        "max.gayle",
+        "imran.hussain"
+    ],
+    "jake.hill": [
+        "gary.gatland",
+        "henry.adams"
+    ],
+    "dylan.rogers": [
+        "gary.gatland"
+    ],
+    "edward.fisher": [
+        "edward.fisher",
+        "nick.persky"
+    ],
+    "andy.turner": [
+        "edward.fisher",
+        "nick.persky",
+        "imran.hussain"
+    ],
+    "lee.baker": [
+        "edward.fisher",
+        "nick.persky",
+        "imran.hussain"
+    ],
+    "niven.cyril": [
+        "edward.fisher",
+        "nick.persky",
+        "imran.hussain"
+    ],
+    "adam.cook": [
+        "edward.fisher",
+        "nick.persky",
+        "imran.hussain"
+    ],
+    "steve.andrews": [
+        "edward.fisher",
+        "nick.persky",
+        "imran.hussain"
+    ],
+    "brad.collins": [
+        "brad.collins"
+    ],
+    "peter.moore": [
+        "brad.collins",
+        "peter.moore"
+    ],
+    "josh.greene": [
+        "brad.collins",
+        "peter.moore"
+    ],
+    "colin.nelson": [
+        "brad.collins",
+        "peter.moore"
+    ],
+    "michael.baker": [
+        "brad.collins",
+        "peter.moore"
+    ],
+    "neil.banks": [
+        "brad.collins",
+        "peter.moore"
+    ],
+    "harry.sanders": [
+        "brad.collins",
+        "peter.moore"
+    ],
+    "ryan.keller": [
+        "brad.collins",
+        "peter.moore"
+    ],
+    "samuel.gill": [
+        "brad.collins",
+        "peter.moore"
+    ],
+    "shane.newman": [
+        "brad.collins",
+        "peter.moore"
+    ],
+    "claire.mills": [
+        "brad.collins",
+        "peter.moore"
+    ],
+    "brian.shaw": [
+        "brad.collins",
+        "peter.moore"
+    ],
+    "zoe.morris": [
+        "brad.collins",
+        "peter.moore"
+    ],
+    "craig.stewart": [
+        "craig.stewart",
+        "craig.stewart",
+        "sean.bailey"
+    ],
+    "sean.bailey": [
+        "craig.stewart",
+        "sean.bailey"
+    ],
+    "finn.adams": [
+        "craig.stewart",
+        "sean.bailey",
+        "jack.ward"
+    ],
+    "dan.mason": [
+        "craig.stewart",
+        "sean.bailey",
+        "jack.ward"
+    ],
+    "william.young": [
+        "craig.stewart",
+        "sean.bailey",
+        "jack.ward"
+    ],
+    "terry.miller": [
+        "craig.stewart",
+        "sean.bailey",
+        "mack.orlin"
+    ],
+    "mack.orlin": [
+        "craig.stewart",
+        "sean.bailey",
+        "mack.orlin"
+    ],
+    "brent.jones": [
+        "craig.stewart",
+        "sean.bailey"
+    ],
+    "tim.reed": [
+        "craig.stewart",
+        "sean.bailey"
+    ],
+    "jack.ward": [
+        "craig.stewart",
+        "sean.bailey",
+        "jack.ward"
+    ],
+    "alan.ford": [
+        "alan.ford"
+    ],
+    "ben.fisher": [
+        "alan.ford",
+        "ben.fisher"
+    ],
+    "tyler.cook": [
+        "alan.ford",
+        "ben.fisher"
+    ],
+    "jeff.smith": [
+        "alan.ford",
+        "ben.fisher"
+    ],
+    "dale.thomas": [
+        "alan.ford",
+        "ben.fisher"
+    ],
+    "troy.mason": [
+        "alan.ford",
+        "ben.fisher"
+    ],
+    "brett.daniels": [
+        "brett.daniels"
+    ],
+    "glen.magro": [
+        "brett.daniels",
+        "imran.hussain"
+    ],
+    "jared.holmes": [
+        "brett.daniels",
+        "imran.hussain"
+    ],
+    "justin.smith": [
+        "brett.daniels",
+        "imran.hussain"
+    ],
+    "maria.davis": [
+        "brett.daniels",
+        "imran.hussain"
+    ],
+    "joe.myers": [
+        "brett.daniels",
+        "imran.hussain"
+    ],
+    "thomas.reed": [
+        "brett.daniels",
+        "imran.hussain"
+    ],
+    "ethan.rogers": [
+        "brett.daniels",
+        "imran.hussain"
+    ],
+    "stuart.jones": [
+        "brett.daniels",
+        "imran.hussain"
+    ],
+    "luke.parson": [
+        "brett.daniels",
+        "imran.hussain"
+    ],
+    "pete.rogers": [
+        "brett.daniels",
+        "imran.hussain"
+    ],
+    "phil.becker": [
+        "brett.daniels",
+        "imran.hussain"
+    ],
+    "christy.wilson": [
+        "brett.daniels",
+        "imran.hussain"
+    ],
+    "blake.wright": [
+        "blake.wright"
+    ],
+    "patrick.baker": [
+        "blake.wright"
+    ],
+    "owen.adams": [
+        "blake.wright"
+    ],
+    "chris.wood": [
+        "blake.wright"
+    ],
+    "marcus.reed": [
+        "blake.wright"
+    ],
+    "simon.lee": [
+        "blake.wright"
+    ],
+    "rex.larson": [
+        "blake.wright"
+    ],
+    "jeremy.smith": [
+        "blake.wright"
+    ],
+    "john.green": [
+        "nick.persky"
+    ],
+    "haysam.wyne": [
+        "nick.persky"
+    ],
+    "nate.miller": [
+        "nick.persky"
+    ],
+    "eric.baker": [
+        "nick.persky"
+    ],
+    "bruce.simmons": [
+        "bruce.simmons"
+    ],
+    "josh.segal": [
+        "bruce.simmons"
+    ],
+    "nathan.miller": [
+        "bruce.simmons"
+    ],
+    "richard.barr": [
+        "bruce.simmons"
+    ],
+    "reese.smith": [
+        "craig.stewart"
+    ],
+    "grant.reed": [
+        "craig.stewart"
+    ],
+    "ethan.reynolds": [
+        "ben.fisher"
+    ],
+    "adam.parker": [
+        "brad.collins"
+    ],
+    "jared.wilson": [
+        "brad.collins"
+    ],
+    "luke.harrison": [
+        "brad.collins"
+    ],
+    "jasper.smith": [
+        "robert.freeman"
+    ],
+    "travis.walker": [
+        "robert.freeman"
+    ],
+    "ashley.taylor": [
+        "robert.freeman"
+    ],
+    "wendy.harrison": [
+        "blake.wright"
+    ],
+    "seth.jones": [
+        "gary.gatland"
+    ],
+    "scott.zane": [
+        "gary.gatland"
+    ],
+    "jay.nelson": [
+        "gary.gatland"
+    ],
+    "tom.anderson": [
+        "gary.gatland"
+    ],
+    "michael.foster": [
+        "gary.gatland"
+    ],
+    "jake.turner": [
+        "edward.fisher"
+    ],
+    "rachel.johnson": [
+        "aaron.smith",
+        "mick.adams"
+    ],
+    "glen.lawson": [
+        "nick.persky"
+    ],
+    "dean.turner": [
+        "nick.persky"
+    ],
+    "spencer.hayes": [
+        "nick.persky"
+    ],
+    "owen.mitchell": [
+        "nick.persky"
+    ],
+    "mark.weller": [
+        "aaron.smith",
+        "mick.adams"
+    ],
+    "joss.taylor": [
+        "craig.stewart",
+        "jack.ward",
+        "sean.bailey"
+    ],
+    "nate.thompson": [
+        "imran.hussain",
+        "brett.daniels"
+    ],
+    "susan.evans": [
+        "imran.hussain",
+        "brett.daniels"
+    ],
+    "keith.carter": [
+        "imran.hussain",
+        "brett.daniels"
+    ],
+    "sally.edwards": [
+        "imran.hussain",
+        "brett.daniels"
+    ],
+    "sebastian.smith": [
+        "imran.hussain",
+        "brett.daniels"
+    ],
+    "danny.lee": [
+        "aaron.smith"
+    ],
+    "steve.wilson": [
+        "emmet.zachary"
+    ]
+}

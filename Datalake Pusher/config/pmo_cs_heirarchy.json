@@ -1,0 +1,193 @@
+{
+    "Billing Client Management": {
+        "Frank Alven": [
+            [
+                "Alex Walker",
+                "Arthur Cook",
+                "Bill Vance",
+                "Damien Sanders",
+                "Daniel Watson",
+                "Dave Arnold",
+                "David Webb",
+                "Dennis Wood",
+                "Drew Morris",
+                "Emmet Zachary",
+                "Fred Allen",
+                "Gary Gatland",
+                "Gavin Jones",
+                "Henry Adams",
+                "Jerry Green",
+                "Kyle Bates",
+                "Leo Hudson",
+                "Liam Walker",
+                "Mark Davis",
+                "Max Gayle",
+                "Paul Baker",
+                "Scott Zane",
+                "Ted Mills",
+                "Wayne Reid",
+                "Dylan Rogers",
+                "Jake Hill"
+            ]
+        ]
+    },
+    "Data Migration & Customization": {
+        "Edward Fisher": [
+            [
+                "Andy Turner",
+                "Lee Baker",
+                "Niven Cyril",
+                "Adam Cook",
+                "Steve Andrews"
+            ]
+        ]
+    },
+    "EHR": {
+        "James Parks": [
+            [
+                "Brad Collins",
+                "Peter Moore",
+                "Josh Greene",
+                "Colin Nelson",
+                "Michael Baker",
+                "Neil Banks",
+                "Harry Sanders",
+                "Ryan Keller",
+                "Samuel Gill",
+                "Shane Newman",
+                "Claire Mills",
+                "Brian Shaw",
+                "Zoe Morris"
+            ]
+        ]
+    },
+    "Integration": {
+        "Craig Stewart": [
+            [
+                "Sean Bailey",
+                "Grant Reed",
+                "Dan Mason",
+                "Terry Miller",
+                "Brent Jones",
+                "Tim Reed",
+                "Jack Ward"
+            ]
+        ]
+    },
+    "Oncology": {
+        "Alan Ford": [
+            [
+                "Ben Fisher",
+                "Tyler Cook",
+                "Jeff Smith",
+                "Dale Thomas",
+                "Troy Mason",
+                "Alan Ford"
+            ]
+        ]
+    },
+    "PM & Billing Support": {
+        "Brett Daniels": [
+            [
+                "Glen Magro",
+                "Jared Holmes",
+                "Justin Smith",
+                "Joe Myers",
+                "Thomas Reed",
+                "Ethan Rogers",
+                "Stuart Jones",
+                "Luke Parson",
+                "Pete Rogers",
+                "Phil Becker",
+                "Christy Wilson"
+            ]
+        ]
+    },
+    "Public Health": {
+        "Blake Wright": [
+            [
+                "Patrick Baker",
+                "Owen Adams",
+                "Chris Wood",
+                "Marcus Reed",
+                "Simon Lee",
+                "Rex Larson",
+                "Jeremy Smith"
+            ]
+        ]
+    },
+    "Implementation": {
+        "Nick Persky": [
+            [
+                "John Green",
+                "Haysam Wyne",
+                "Nate Miller",
+                "Eric Baker"
+            ]
+        ]
+    },
+    "Credentialing": {
+        "Aaron Smith": [
+            [
+                "Stan Myers",
+                "Eric Ward",
+                "Mick Adams",
+                "David Lee",
+                "Caleb Wood",
+                "Russell Reed",
+                "Ron Davis",
+                "Noah Smith",
+                "Pat Rogers"
+            ]
+        ]
+    },
+    "Patient Services": {
+        "Albert Mills": [
+            [
+                "Chad Myers",
+                "Ian Smith",
+                "Harry Maxwell",
+                "Emma Grant",
+                "Jordan Moore",
+                "Todd Francis",
+                "Stella Adams",
+                "Robert Freeman",
+                "Dana Wilson"
+            ]
+        ]
+    },
+    "Provider Enrollments": {
+        "Altaf Hussain": [
+            [
+                "Martin Wilson",
+                "Joe White",
+                "Ralph Martin",
+                "Terry Adams",
+                "Daniel Green",
+                "Ian Dawson",
+                "Jim Brown"
+            ]
+        ]
+    },
+    "Virtual Front Desk": {
+        "Dexter Hill": [
+            [
+                "Austin Lee",
+                "Steven Gill",
+                "Larry Hill",
+                "Michelle Reed",
+                "Sophia Foster",
+                "Ellie Young"
+            ]
+        ]
+    },
+    "Premium Services": {
+        "Bruce Simmons": [
+            [
+                "Josh Segal",
+                "Nathan Miller",
+                "Richard Barr"
+            ]
+        ]
+    }
+}
